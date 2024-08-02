@@ -8,7 +8,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Abbiepearlz.Abbiepearlz)
 
-An Astute Data Analyst from Nigeria
+I am a data analyst with a passion for turning complex data into actionable insights. I love analyzing data, solving problems, and impacting society positively.
+
+As a data analyst, I enjoy leveraging my meticulous attention to detail and my unwavering commitment to improving outcomes. I thrive on transforming raw data into meaningful narratives that can drive informed decision-making and make a real difference in people's lives.
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Abbiepearlz/Abbiepearlz/master/data gif.gif">
 
