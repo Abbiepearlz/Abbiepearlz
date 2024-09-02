@@ -21,7 +21,7 @@ As a data analyst, I enjoy leveraging my meticulous attention to detail and my u
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on [Sales Analysis](https://github.com/Abbiepearlz/Basic-Bike-Sales-Excel-Project)
+- 🔭 I’m currently working on [PMT Company Sales Analysis and Performance Overview](https://github.com/Abbiepearlz/PMT-Company-Sales-Analysis-and-Performance-Overview/blob/main/README.md)
 
 - 🌱 I’m currently learning **SQL**
 
